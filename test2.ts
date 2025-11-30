@@ -1,1 +1,1 @@
-This is tets file2.
+//This is tets file2.
